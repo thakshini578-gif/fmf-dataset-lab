@@ -1,0 +1,21 @@
+# images (face photos, screenshots, plots)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+
+# dataset and tensors
+*.pt
+*.pth
+fmfdataset/
+incoming/
+
+# environment, outputs, report files
+fmf_env/
+submission/
+__pycache__/
+*.zip
+*.pdf
+*.docx
